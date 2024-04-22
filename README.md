@@ -1,12 +1,12 @@
-## Hello guys, I'm Samuel Martins🐕
+## <p align="center"> Hello guys, I'm Samuel Martins🐕 </p>
 
-<div>
-    <img src="https://github.com/Samue1-Martins/Samue1-Martins/assets/125680404/818fc5aa-76da-4325-90a2-f092e5d939c0">
+<div align="center">
+    <img src="https://github.com/Samue1-Martins/Samue1-Martins/assets/125680404/818fc5aa-76da-4325-90a2-f092e5d939c0" height = 350px>
 </div>
 
 ##
 
-<div>
+<div align="center">
     <a href="https://github.com/Samue1-Martins">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samue1-Martins&show_icons=true&theme=transparent&include_all_commits=false&count_private=true&title_color=C2D1D9&text_color=8B949E&bg_color=0D1117&icon_color=3EA6FF&border_color=30363D00"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samue1-Martins&layout=compact&langs_count=7&title_color=C2D1D9&text_color=8B949E&bg_color=0D1117&icon_color=3EA6FF&border_color=30363D00"/>
@@ -14,7 +14,7 @@
 
 ##
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" align="center"><br>
   <img align="center" alt="samuJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="samuHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="samuCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-orig
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="mailto:samuel30douglas@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
