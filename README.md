@@ -13,7 +13,9 @@
 </div>
 
 ##
-
+<div  align="center">  
+    <h2> Languages 💻 </h2>
+</div>
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="samuJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="samuHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +32,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-orig
 </div>
 
 ##
-
+<div  align="center">  
+    <h2> Social Media 📱 </h2>
+</div>
 <div align="center"> 
   <a href="mailto:samuel30douglas@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
