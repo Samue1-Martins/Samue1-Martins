@@ -1,7 +1,7 @@
 ## <p align="center"> Hello guys, I'm Samuel Martins🐕 </p>
 
 <div>
-    <img src="https://github.com/Samue1-Martins/Samue1-Martins/assets/125680404/1acea06f-cfb9-4f6c-aea0-adb0202aad15">
+    <img src="https://github.com/user-attachments/assets/05d7f15b-4d55-490b-8b82-daed2edcccb1">
 </div>
 
 ##
